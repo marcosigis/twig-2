@@ -8,4 +8,4 @@ $name = 'Wilder';
 
 echo $twig->render('home.html.twig', ['name' => $name]);
 
-require_once __DIR__ . '/products.php';
+//require_once __DIR__ . '/products.php';
